@@ -2,8 +2,8 @@ import Link from 'next/link'
 import { ArrowLeft } from 'lucide-react'
 
 export const metadata = {
-  title: 'Privacy Policy | Interstellar s.r.o.',
-  description: 'Privacy Policy for Interstellar s.r.o. and SeekWhy.ai services',
+  title: 'Privacy Policy | interstellar s.r.o.',
+  description: 'Privacy Policy for interstellar s.r.o. and SeekWhy.ai services',
 }
 
 export default function PrivacyPolicy() {
@@ -21,7 +21,7 @@ export default function PrivacyPolicy() {
           <section>
             <h2 className="text-2xl font-semibold mb-4 text-white">1. Introduction</h2>
             <p className="text-gray-300 leading-relaxed">
-              Interstellar s.r.o. (&quot;we&quot;, &quot;our&quot;, or &quot;us&quot;) is committed to protecting your privacy.
+              interstellar s.r.o. (&quot;we&quot;, &quot;our&quot;, or &quot;us&quot;) is committed to protecting your privacy.
               This Privacy Policy explains how we collect, use, disclose, and safeguard your information
               when you visit our website interstellar.guide and use our services, including SeekWhy.ai.
             </p>
@@ -120,8 +120,9 @@ export default function PrivacyPolicy() {
               If you have questions about this Privacy Policy, please contact us at:
             </p>
             <div className="mt-4 p-4 bg-white/5 rounded-lg">
-              <p className="text-gray-300">Interstellar s.r.o.</p>
+              <p className="text-gray-300">interstellar s.r.o.</p>
               <p className="text-gray-300">Email: info@interstellar.guide</p>
+              <p className="text-gray-300">ICO: 51 651 726 | VAT: SK2120748619</p>
               <p className="text-gray-300">Slovakia, EU</p>
             </div>
           </section>

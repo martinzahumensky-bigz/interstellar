@@ -2,8 +2,8 @@ import Link from 'next/link'
 import { ArrowLeft } from 'lucide-react'
 
 export const metadata = {
-  title: 'Terms of Service | Interstellar s.r.o.',
-  description: 'Terms of Service for Interstellar s.r.o. and SeekWhy.ai services',
+  title: 'Terms of Service | interstellar s.r.o.',
+  description: 'Terms of Service for interstellar s.r.o. and SeekWhy.ai services',
 }
 
 export default function TermsOfService() {
@@ -21,7 +21,7 @@ export default function TermsOfService() {
           <section>
             <h2 className="text-2xl font-semibold mb-4 text-white">1. Agreement to Terms</h2>
             <p className="text-gray-300 leading-relaxed">
-              By accessing or using the services provided by Interstellar s.r.o. (&quot;Company&quot;, &quot;we&quot;, &quot;our&quot;, or &quot;us&quot;),
+              By accessing or using the services provided by interstellar s.r.o. (&quot;Company&quot;, &quot;we&quot;, &quot;our&quot;, or &quot;us&quot;),
               including the website interstellar.guide and SeekWhy.ai platform, you agree to be bound by these Terms of Service.
               If you do not agree to these terms, please do not use our services.
             </p>
@@ -30,7 +30,7 @@ export default function TermsOfService() {
           <section>
             <h2 className="text-2xl font-semibold mb-4 text-white">2. Description of Services</h2>
             <p className="text-gray-300 leading-relaxed">
-              Interstellar s.r.o. provides:
+              interstellar s.r.o. provides:
             </p>
             <ul className="list-disc pl-6 text-gray-300 space-y-2 mt-4">
               <li>SaaS software development services</li>
@@ -80,7 +80,7 @@ export default function TermsOfService() {
             <h2 className="text-2xl font-semibold mb-4 text-white">6. Intellectual Property</h2>
             <p className="text-gray-300 leading-relaxed">
               All content, features, and functionality of our services, including but not limited to
-              text, graphics, logos, and software, are owned by Interstellar s.r.o. and are protected
+              text, graphics, logos, and software, are owned by interstellar s.r.o. and are protected
               by international copyright, trademark, and other intellectual property laws.
             </p>
           </section>
@@ -106,7 +106,7 @@ export default function TermsOfService() {
           <section>
             <h2 className="text-2xl font-semibold mb-4 text-white">9. Limitation of Liability</h2>
             <p className="text-gray-300 leading-relaxed">
-              To the maximum extent permitted by law, Interstellar s.r.o. shall not be liable for any
+              To the maximum extent permitted by law, interstellar s.r.o. shall not be liable for any
               indirect, incidental, special, consequential, or punitive damages, or any loss of profits
               or revenues, whether incurred directly or indirectly.
             </p>
@@ -145,9 +145,9 @@ export default function TermsOfService() {
               For questions about these Terms, please contact us at:
             </p>
             <div className="mt-4 p-4 bg-white/5 rounded-lg">
-              <p className="text-gray-300">Interstellar s.r.o.</p>
+              <p className="text-gray-300">interstellar s.r.o.</p>
               <p className="text-gray-300">Email: info@interstellar.guide</p>
-              <p className="text-gray-300">Company Registration: ICO 51940299</p>
+              <p className="text-gray-300">ICO: 51 651 726 | VAT: SK2120748619</p>
               <p className="text-gray-300">
                 <a
                   href="https://www.orsr.sk/vypis.asp?ID=429326&SID=2&P=0"

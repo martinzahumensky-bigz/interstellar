@@ -36,7 +36,7 @@ function Logo() {
         {/* Small orbiting dot */}
         <div className="absolute w-2 h-2 bg-accent-orange rounded-full animate-pulse-glow" style={{ top: '2px', right: '2px' }} />
       </div>
-      <span className="text-xl font-bold">Interstellar</span>
+      <span className="text-xl font-bold">interstellar</span>
     </div>
   )
 }
@@ -68,7 +68,7 @@ export default function Home() {
 
           <div className="relative">
             <p className="text-accent-cyan text-sm font-medium tracking-widest uppercase mb-4">
-              Interstellar s.r.o.
+              interstellar s.r.o.
             </p>
             <h1 className="text-5xl md:text-7xl font-bold mb-6">
               <span className="text-gradient">Helping You Navigate</span>
@@ -192,9 +192,9 @@ export default function Home() {
         <div className="max-w-6xl mx-auto">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
-              <h2 className="text-3xl md:text-4xl font-bold mb-6">About Interstellar</h2>
+              <h2 className="text-3xl md:text-4xl font-bold mb-6">About interstellar</h2>
               <p className="text-gray-400 mb-4">
-                Founded in 2018, Interstellar s.r.o. has been at the forefront of software
+                Founded in 2018, interstellar s.r.o. has been at the forefront of software
                 innovation, helping businesses leverage technology to achieve their goals.
               </p>
               <p className="text-gray-400 mb-6">
@@ -269,7 +269,7 @@ export default function Home() {
                 <Building2 className="w-6 h-6 text-accent-pink" />
               </div>
               <h3 className="font-semibold mb-2">Company</h3>
-              <p className="text-gray-400">Interstellar s.r.o.</p>
+              <p className="text-gray-400">interstellar s.r.o.</p>
             </div>
           </div>
         </div>
@@ -301,10 +301,10 @@ export default function Home() {
           </div>
           <div className="mt-8 pt-8 border-t border-white/5 text-center">
             <p className="text-sm text-gray-500">
-              &copy; {new Date().getFullYear()} Interstellar s.r.o. All rights reserved.
+              &copy; {new Date().getFullYear()} interstellar s.r.o. All rights reserved.
             </p>
             <p className="text-xs text-gray-600 mt-2">
-              ICO: 51940299 | Registered in the Commercial Register of the District Court Bratislava I
+              ICO: 51 651 726 | VAT: SK2120748619 | Registered in the Commercial Register of the District Court Bratislava I
             </p>
           </div>
         </div>
